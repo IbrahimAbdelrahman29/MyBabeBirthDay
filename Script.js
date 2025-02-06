@@ -25,5 +25,5 @@ function createBalloon() {
 setInterval(createBalloon, 300);
 
 function goToHome() {
-    window.location.href = "home.html";
+    window.location.href = "Home.html";
 }
